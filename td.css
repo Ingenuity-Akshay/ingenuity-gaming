@@ -1,0 +1,42 @@
+#delete{
+    /* margin-left: 20px; */
+    margin: 0px 20px;
+}
+#container{
+    margin-left: 800px;
+}
+body{
+    background-color: goldenrod;
+}
+#heading{
+    font-family: cursive;
+    align-items: center;
+    
+    font-size: 100px;
+}
+#input-task{
+   font-size: 30px;
+    width: 300px;
+    height: 30px;
+}
+#btn{
+    font-size: 20px;
+    background-color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 20px;
+}
+#list{
+font-size: 30px;
+
+}
+#delete{
+    font-size: 20px;
+    margin-left: 40px;
+    background-color:khaki;
+    float: right;
+    margin-right: 480px;
+    
+}
+#span{
+    width: 500px;
+}
