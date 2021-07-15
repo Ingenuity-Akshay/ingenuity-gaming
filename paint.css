@@ -1,0 +1,28 @@
+body{ background-color:palegreen }
+#canvas{border:1px solid red;}
+
+input[type="radio"] {
+ 
+  display: inline;
+}
+
+.options{
+  display: flex;
+  margin-left: 20px;
+ 
+}
+
+.divbar{
+  height: 80px;
+  width: 80px;
+}
+.divoption{
+  margin-right: 80px;
+ font-size: 30px;
+ font-family:cursive;
+}
+#clearCanvas{
+  color:red;
+  font-size: 20px;
+  background-color: yellow;
+}
